@@ -80,7 +80,7 @@ function doneornot(checkobj){
     
     //verify if all of the todos are done
     if(Object.values(isDone).every(value => value === true)){
-        alert("Congratulations ! you have finished all of yout todos ! I'm proud of you.");
+        alert("Congratulations ! you have finished all of your todos ! I'm proud of you.");
     };
 
     
@@ -128,7 +128,7 @@ function suppr_todo(obj){
 
         //verify if all of the todos are done
         if(Object.values(isDone).every(value => value === true)){
-            alert("Congratulations ! you have finished all of yout todos ! I'm proud of you.");
+            alert("Congratulations ! you have finished all of your todos ! I'm proud of you.");
         };
     };
 };
