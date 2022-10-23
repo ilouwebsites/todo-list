@@ -33,7 +33,7 @@
 }
 
 .input{
-    width:34em;
+    width:90%;
     
     font-size:2em;
 }
@@ -73,7 +73,7 @@ h1{
 }
 
 #plus{
-    width:41em;
+    width:90%;
 }
 #plus {
 	box-shadow: 3px 4px 0px 0px #8a2a21;
